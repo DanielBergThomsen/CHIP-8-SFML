@@ -1,7 +1,7 @@
 # CHIP-8 SFML
 This is an interpreter for the CHIP-8 virtual machine, written in C++ and using the 
 SFML multimedia library for sound and graphic representation. The instructions
-are exectuted using different function pointer arrays, as opposed the simple
+are executed using different function pointer arrays, as opposed to using a simple
 switch statement.
 
 # How to run
